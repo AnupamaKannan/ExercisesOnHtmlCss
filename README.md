@@ -1,2 +1,2 @@
 # ExercisesOnHtmlCss
-exercises done on html csss according to supersimpledev
+exercises done on html css according to supersimpledev
