@@ -1,1 +1,58 @@
+<style>
+.link
+{
+    color: rgb(64, 112, 110);
+}
+.x
+{
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+}
+.y
+{
+    color:rgb(64, 192, 62);
+    font-weight: bold;
+    font-size: 18px;
+}
+.z
+{
+    font-size: 18px;
+}
+.a 
+{
+    color: black;
+    background-color:  rgb(255,216,20);
+    border-radius:20px ;
+    height:40px;
+    width: 140px;
+    cursor: pointer;
+    border: none;
+}
+.b 
+{
+    color: black;
+    background-color: orange;
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+    width:140px;
+    cursor:pointer;
+    margin-left: 8px;
+}
+</style>
+
+
+<a class="link" href="https://www.amazon.com/Nike-Womens-Pegasus-Running-Bq9647-002/dp/B07ZJP3VFP" target="_blank">
+    Back to Amazon
+</a>
+
+<p class="x">Nike Black Running Shoes</p>
+<p class="y">$39-in stock</p>
+<p class="z">Free delivery tomorrow</p>
+<button class="a">Add to Cart</button>
+<button class="b">Buy now</button>
+
+
+
 
