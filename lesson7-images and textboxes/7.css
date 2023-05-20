@@ -1,0 +1,82 @@
+.p1
+{
+    width:200px;
+    border-radius: 30px;
+    vertical-align: top;
+    margin-left:10px;
+    margin-right: 10px;
+}
+.p2
+{
+    width:200px;
+    height:200px;
+    vertical-align: top;
+    margin-right: 10px;
+}
+.p3
+{
+    width: 200px;
+    border-radius: 100px;
+    height: 200px;
+}
+.d
+{
+    display:block;
+    font-size: 16px;
+    margin-top: 8px;
+    padding-left: 5px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 10px;
+    border-color:rgb(200,200,200);
+    border-style: solid;
+}
+.e
+{
+    display: block;
+    font-size: 16px;
+    width: 300px;
+    margin-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 20px;
+    border:none;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.15);
+}
+.pfp
+{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+  
+  .twitter
+  {
+    margin-top: 8px;;
+    height: 50px;
+    font-size: 18px;
+    border: none;
+    width: 300px;
+    vertical-align: middle;
+  }
+  
+  .tweet {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    vertical-align: middle;
+  }
+
